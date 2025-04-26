@@ -1,0 +1,12 @@
+1.
+https://learn.microsoft.com/en-gb/training/modules/introduction-to-transact-sql/8-summary#completion
+2.
+https://learn.microsoft.com/en-gb/training/modules/sort-filter-queries/9-summary#completion
+3.
+https://learn.microsoft.com/en-gb/training/modules/query-multiple-tables-with-joins/8-summary#completion
+4.
+https://learn.microsoft.com/en-gb/training/modules/write-subqueries/7-summary#completion
+5.
+https://learn.microsoft.com/en-gb/training/modules/use-built-functions-transact-sql/10-summary#completion
+6.
+https://learn.microsoft.com/en-gb/training/modules/modify-data-with-transact-sql/9-summary#completion
